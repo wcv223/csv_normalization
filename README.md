@@ -18,7 +18,7 @@ Revisions - 05/25/2021 Cody Villarreal Started coding
 ## How to run program
 
 The program csv_normalization.py will need to be run using python 3.9 or a newer version.
-From the command line enter: python3 csv_normalization.py <csv file to be normalized> <normalized csv file>
+From the command line enter: python3 csv_normalization.py "csv file to be normalized" "normalized csv file"
 
 The "csv file to be normalized" is the name csv file that will be read and normalized.
 The "normalized csv file" is a blank csv file that will be written to with the normalized data.
